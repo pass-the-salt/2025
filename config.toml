@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://pass-the-salt.github.io/2025"
+baseurl = "https://2025.pass-the-salt.org/"
 title = "Pass the SALT 2025"
 theme = "vex-hugo"
 # post excert
@@ -54,32 +54,38 @@ link = "plugins/slick/slick.min.js"
 [[menu.main]]
 name = "About"
 url = "https://2025.pass-the-salt.org/#description"
-weight = 1
+weight = 10
+
+[[menu.main]]
+name = "Practical"
+url = "https://2025.pass-the-salt.org/practical/"
+weight = 11
 
 [[menu.main]]
 name = "Schedule"
 url = "https://cfp.pass-the-salt.org/pts2025/schedule/"
-weight = 2
+weight = 20
 
 #[[menu.main]]
 #name = "Register"
 #url = "https://pretix.eu/passthesalt/2025/"
 #weight = 3
 
-#[[menu.main]]
-#name = "2024 Videos"
-#url = "https://passthesalt.ubicast.tv/channels/#2024"
-#weight = 3
-
-#[[menu.main]]
-#name = "2024 Memories"
-#url = "https://www.flickr.com/photos/yobibe/albums/72177720318671117/"
-#weight = 3
+[[menu.main]]
+name = "Videos"
+url = "https://passthesalt.ubicast.tv/channels/#2025"
+weight = 30
 
 [[menu.main]]
-name = "Practical"
-url = "https://2025.pass-the-salt.org/practical/"
-weight = 4
+name = "Slides"
+url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/slides/"
+weight = 31
+
+[[menu.main]]
+name = "Memories"
+url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/photos/PhotosPassTheSALT2025-by-jlm/"
+weight = 32
+
 
 #[[menu.main]]
 #name = "Report"
@@ -89,17 +95,17 @@ weight = 4
 [[menu.main]]
 name = "Sponsors"
 url = "https://2025.pass-the-salt.org/#sponsors"
-weight = 5
+weight = 50
 
 [[menu.main]]
 name = "Code of Conduct"
 url = "https://2025.pass-the-salt.org/code-of-conduct/"
-weight = 6
+weight = 60
 
 [[menu.main]]
 name = "Archives"
 url = "https://www.pass-the-salt.org/archives/"
-weight = 7
+weight = 70
 
 # [[menu.main]]
 # name = "Contact"
