@@ -1,283 +1,275 @@
 ---
-title: "2024 Conference report"
+title: "2025 Conference report"
 permalink: /annual-report/
 ref: report
 ---
 
 Pass the SALT is a **free access, English spoken, 3-day conference** dedicated to Free software and Security. It provides a single track of talks and some workshops in parallel.<br><br>
 
-This document is **our annual report for the 2024 edition** of the conference. We share all the figures, our insights and analysis about:
+This document is **our annual report for the 2025 edition** of the conference. We share all the figures, our insights and analysis about the event.
 
-- the **[attendance](#attendance)**,
-- the **[conference content](#conference-content)**,
-- the **[attendees feedback](#attendees-feedback)**,
-- the **[speakers feedback](#speakers-feedback)**,
-- the **[budget and sponsoring](#budget--sponsoring)**,
-- some **[org team thoughts](#some-org-team-thoughts)**.
+Direct sections access:
+- **[TL;DR summary](#tldr-summary)**,
+  - **[new location](#new-location)**,
+  - **[conferences](#conferences)**,
+  - **[attendance](#attendance)**,
+  - **[some news features](#some-new-features)**,
+  - **[failures and challenges](#failures-and-challenges)**,
+- **[More event details](#more-event-details)**,
+  - **[conferences and workshops](#conferences-and-workshops)**,
+  - **[audience](#audience)**,
+  - **[sponsors](#sponsors)**,
+  - **[budget](#budget)**,
+- **[Conclusion](#conclusion)**.
 
-Throughout this document, you will find:
+# TL;DR summary
 
-- **what has worked** during the edition,
-- the **areas for improvement**,
-- **some thoughts** from the org team about **first collaborations**, **team evolutions** and **kinds of speakers** you can cross at the conference.
+## New location
+Due to the unavailability of the Polytech lecture hall for our dates, we had the opportunity to host PTS25 at the **Catholic University of Lille**.
 
-## **Attendance**
+![room](/images/room.jpg)<br>
+_Lecture hall. Photo by @julioloayzam._<br>
 
-In this section you will find all figures and our feedback about the attendance of this edition:
+💚 The semi-underground lecture hall was **much more resistant to the heat** (38°C on the first day) than Polytech.
 
-- **176 people** booked their seat.
-      In 2023: 135, 2022: 156
-- **128 people** were physically present at the conference.
-      In 2023: 108, 2022: 103
-- **No-show rate: 27%**
-      In 2023: 20%, 2022: 33%
+💚 The variety of **transportation options** to get there (15 minutes by bus, 25/30 minutes on foot, 2 metro lines) provided **resilience and comfort for everyone**.
 
-We were really happy to see more people coming to our conference this year:
-- +30% of registered people,
-- **+18% of attendees** present on the D day.
+💚 The **green spaces** in an inner courtyard have been **really appreciated** by participants, especially in this weather. <br>![jardins](/images/jardins.jpg)
 
-Aside from the content of the conference, we can see in these positive numbers the impact of the efforts we've put into communication this year:
-- **channels:** we used 3 social networks (X, Mastodon, **<span style="color:#800000">[new]</span>** LinkedIn) for each communication we made,
-- **frequency:** regularly since January, **<span style="color:#800000">[new]</span>** weekly since May,
-- **targets:** **<span style="color:#800000">[new]</span>** we tried to reach, without much success, local infosec communities.
+😔 **No easy parking** when coming by car, including for the organizers; we will work for it if we come back there).
 
-Regarding the relatively low number of attendees in general, there is a lack of students able to attend the conference at this time of the year, due to summer vacation and internships. This is one way to explain the difference with others free access conferences.
+😐 No possibility of setting up food trucks. But there are a variety of street food restaurants nearby (5 min walk) 👍
 
-**Share of attendees that previously came to Pass the SALT: 41%** (2023: 44%, 2022: 28%).<br>
-*source: booking form*
+## Conferences
 
-Since last year, around 60% of the attendees are new ones and figures seem to be stable. 
+PTS is a single-track conference with parallel workshops.
 
-We think this is a good balance between:
-- people who come on a regular basis for the quality of the talks, workshops, networking and/or atmosphere. They provide the stability and share **their knowledge of the culture of the conference** to newcomers,
-- new attendees who come to discover the conference and who bring **their freshness**, **their expectations** and their **new ideas**!
+**Figures:** 49 submissions, **32 accepted**, including 4 invited (12.5%), for an **acceptance rate of 65%**. 👍
 
-**Occupation:**<br>
-*source : booking form*
+2024: 39, 30, 2 invited (6.66%), 76.9%.
 
-- private sector: 71% (2023: 60%, 2022: 55%)
-- public sector: 14% (21%, 15%)
-- students: 6.5% (8%, 19%)
-- academic: 4.5% (7%, 8%)
-- others: 4% (4%, 3%)
+We had also 6 workshops given all along the event (9 in 2024). 
 
-**Language:** attendees that can speak French: **91%** (2023: 90%,2022: 91%).
-*source: booking form*
-It is a very stable percentage since the COVID period. As we said last year, we have not fully recovered our audience usually coming from Germany, Netherlands, Belgium or UK. We would be really pleased to get in touch with networks in these countries. **<span style="color:#800000">[help needed]</span>** So if you have any way to reach them, let's get in touch! 🙂
+**New in 2025** 
+- a **secured messaging session** with very diverse and experts speakers,
+- **more academics speakers**,
+- speakers coming from **more diverse horizons** than the previous editions due to CFP pushing to new ecosystems (academia, messaging, hacktivists).    
 
-## Conference content
+## Attendance
 
-First, let's share some raw figures about talks and workshops of this year's edition!
-- **21 talks** (2023: 22, 2022: 22)
-- **9 workshops** (2023: 3, 2022)
+**Figures:** 170 registered, **140 present**. After 8 editions, we can say that 150-200 is the typical size that fits the soul of the event where people can talk to everybody, speakers and attendees, in a comfortable and warm manner 💚
 
-### Call for papers
-As you can see, all figures are quite stable aside from the notable exception of the rise of the number of workshops for this edition. 
+❤️ **2025 no-show rate: of 17.6%** (2024: 176/128, representing a no-show rate of 28%). As a free conference, we are **very happy** with these improving figures and the sharp drop in no-shows. Unfortunately, we don't have any further explanations for this figure 😐️
 
-Since the launch of the conference, we are committed to release in open source everything about the conference (figures, process like badge conception etc).  
+**Language:** As this was a conference held in English, we were very pleased to have **~20% of non-French speaking people 🇬🇧**, which is better than in the past. In particular, we had a larger number of Germans involved in activism and privacy (see presentations on the subject).
 
-Let's find below our CFP figures for all our editions (also available on our [main website](https://www.pass-the-salt.org/about/)).
+## Some new features
+
+**Main point of contact for Code of Conduct enforcement:** this year, Nathan took the lead of the inclusion and safety initiative and will be able to bring his expertise in the domain to the organization. Thanks for it, Nathan 🙏 <br>![nathan](/images/nathan2.jpg)
+
+**Best rump award:** we decided to distinguish the best lightning talk based on instant voting by the audience via an online service. It has been **fun** and **appreciated** by attendees and rumps speakers 🥇<br>![award](/images/best-rump-award.jpg)
+
+**Mascot:** Salty, hand maded by @\_cryptocorn\_, was born during the conference and made a brief appearance 😍 We can capitalize on her existence in future communications. <br><br>![salty](/images/salty.jpg)<br>_Salty. Photo by @julioloayzam._<br>
+
+**Org lunch:** the organizers allocated a budget to order food and have it delivered. This allowed us to **eat together**, work until the delivery arrived, chat, without the hassle of finding somewhere to eat, going there, coming back, etc. And it was great! 🤩
+
+## Failures and challenges
+
+### 1. Most epic first day in PTS history<br><br>
+
+### 🚨 Server down 1 hour before conference start
+Our **main server crashes one hour before the conference starts at 2 p.m.** It hosts the website, including  practical information on how to get there and the program, but not the ticket office. OVH works on it all afternoon.<br>![everything](/images/everything.png)
+
+**Immediate impacts** 
+  * **Many people were lost**. As previously said, this year, we changed the conference location. 1 p.m. on the first day is the exact time when most participants are looking for the practical information page on how to get there, and... the server is down. So they search from memory for “Université Catholique de Lille” on Maps, which sends them to another building further up the boulevard because the university occupies an entire neighborhood.<br>👉 **Server down, first  day, 1 hour before start of the con held in brand new location. All of this under 38°C. Not worst time possible for this crash to happen!**
+  * **Speaker absent:** this story causes our first speaker fail to join us on time, but he ends up arriving. In the end, we just swapped him with the second speaker (thanks to him!).
+
+**Crisis management** 
+  * 📣 As soon as we detected that the server was down, we (re)communicate the university's address via social media (X, Mastodon, LinkedIn). **Finally, people end up arriving more or less on time** 🎉 
+  * 🛠️ **Recovering temporary website:** in the middle of the afternoon, we put **the site back online on Github Pages** thanks to the fact that it is mostly static (Hugo). The program based on Pretalx, which is self-hosted on the server, was affected. Fortunately, we were **able to replace the program with a PDF** generated elsewhere for physical display. <br><br>![recoveryteam](/images/recovery-team.jpg)<br> *The recovery team at work to bring up a backup website online. Photo by @julioloayzam.* <br><br>
+  * **Server is back:** the server has been bring back to us at 8 p.m. by OVH. Everything on it was changed except for the disks, which meant we didn't have to do a full restore. The logs mention the CPU overheating. From there, it's easy to think that the data center's air conditioning had a hard time keeping the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
+
+**Law of series:** at the end of the conference, when we wanted to save the videos/slides from the year from our archive site to our backup disk, as we do every year, the data from the previous 15 years (RMLL+PTS) told us... *“We're gone, bye!”*. #WhenItDoesn'tWork. We backed up everything again.
+
+**Conclusion:** we have a good post mortem analysis to do in order to build a more resilient infrastructure. But we'll say it again: **static site with markdown sources + Hugo + a repo on GitHub is a really good and cheap way to go** 💯
+
+### 👀 Schrödinger Microphones 
+
+At start of the conference, we had one more surprise ;)
+
+Org: *"we don't have any Quantum talks, what a pity!"*<br>
+Local video team: *"Hold my beer!"*
+
+During our first talks, we faced **disappearing & reappearing microphones** with no particular reason!
+
+But, of course, there is always a reason!
+* **Root cause:** using network multicast mics on IT network requires filtering… and as all network people know since decades: ***”Correct filtering is hard”***
+* **Solution:** let's back to old-fashion equipment! Yes, KISS solutions are often the way to go when you want to stay calm and keep an event on track ;)
+
+### 2. The conference's late finishers challenge 🔥
+
+About an hour after the conference ended, everything was packed up and all organizers and late speakers/participants headed to the station to go home. 
+
+* 🎉 First step: **avoid the Tour de France parade** (which officially started two days later): it was impossible to get there on foot or by bus. **Our communication started the day before clearly worked**, as no one reported any difficulties.
+* 🤦‍♂️ Once we arrived at the station: the **Lille-Paris line was cut** first due to a **collision between a TGV train and a wild boar**, **followed by a fire on the tracks (5-meter flames)**. It was a huge hassle for those who were finally able to board a train. <br>![sanglier](/images/sanglier-incendiaire.png)<br> *AI-generated image of an incendiary boar by @regiteric*
+* Main impact: a **large part of the organization, some speakers, and participants** were **stuck in Lille for one more night**. This did, however, lead to a final group meal in good spirits for those who were stuck! 😎 🍻
+
+# More event details
+
+## Conferences and workshops
+
+### Submissions
 
 | Year (IRL editions)  | Submissions   | Accepted      | Invited talks among accepted ones | Acceptation Rate |
 | -------------        | ------------- | ------------- | --------------------------------- | ---------------- | 
-| **2024**             | **39**        | **30**        | **2 (06.0%)**                     |  **77.0%**       |
+| **2025**             | **49**        | **32**        | **4 (12.5%)**                     |  **65.0%**       |
+| 2024                 | 39            | 30            | 2 (06.0%)                         |    77.0%         |
 | 2023                 | 45            | 25            | 3 (12.0%)                         |    55.5%         |
 | 2022                 | 39            | 27            | 5 (18.5%)                         |    69.2%         |
 | 2019                 | 46            | 35            | 3 (12.0%)                         |    76.0%         |
 | 2018                 | 37            | 29            | 2 (06.0%)                         |    78.3%         |
 
-*Our feedback:*
-> - **Workshops:** this year, we have been really surprized and pleased by the number of **submitted and accepted workshops** (11, 9). All of them have found their audience (from 6 to 15 attendees, our upper limit). It is a great achievement for this edition!
-> - **Keynote/closing talk:** for PTS24 we haven't found any fitting topic or speaker. We are definitely not a conference large enough to regularly attract speakers able to give such talks on our stage. When the right content and speaker will be available, we will have a keynote at Pass the SALT. In our opinion, it is the right way to proceed to respect our attendees and it is perfectly OK for us!
-> - **Acceptance rate:** this year, it is quite high compared to the 2022 and 2023 figures. It comes mainly from the fact we had a lot of workshops submitted and (almost all) accepted. When we look only at the talks, the acceptation rate drops a little (*72%*) to reach a level closer to previous years.
-> - **Invited talks:** we are proud to have a hybrid talks selection process (CFP + invited talks). It allows us to mix the openness of a Call for Papers with the ability to give a special focus to our current edition with a limited number of invited talks (2 for this year).
 
-### Speakers geographical distribution
+💚 **Number of submissions:** we are happy with the level and quality of the submissions. It is always a fight to get enough but also good quality content and this year is a good one! We had 26 talks and the number of workshops is also quite high (6) occupying all available slots.
+
+![workshop](/images/workshop.jpg)
+<br>*Pauline & William workshop. Photo by @julioloayzam.* 
+
+💚 **New in 2025** partly due to our extended core team, our CFP announcement and topics ideas have been able to be pushed to **different new ecosystems** (low level, secure messaging, privacy) but **also to more academics** we weren't able to reach previously. By this way, we have also been able to attract some attendees we usually didn't see at PTS (German activits for example).
+
+💚 **New in 2025**
+After boot security in 2023 and PKI/transparency in 2024 (which came back this year!), the **secured messagaing session** has been a good example of panel of different kind of speakers and topics (IETF and messging expert, long term OSS developer, researcher, core team of large secure messaging deployment), all with a high level of expertise.
+
+We also have the **opportunity to have low level experts from academics** which is new for PTS! 
+
+### Geograpical speakers distribution
 
 | Year      | France   | (rest of) Europe | (rest of the) World |
 | --------- | -------- | ---------------- | ------------------- |
-| **2024**  | **61%**  | **30%**         | **9%**              |
-| 2023      | 74%       | 22%             | 4%                  |
-| 2022      | 77%       | 23%             | 0%                  |
+| **2025**  | **67.5%**| **30%**          | **2.5%**            |
+| 2024      | 61%      |  30%             | 9%                  |
+| 2023      | 74%      | 22%              | 4%                  |
+| 2022      | 77%      | 23%              | 0%                  |
 
-We are pleased to see (a little) more non French speakers coming to Pass the SALT. We will continue to promote the conference outside France in order to improve our speakers geographical diversity :)
-
+The geographical distribution of our speakers is quite in the average of the conference.
 
 ### Recording, streaming and slides
-- Talks have been streamed without any major issue. After the conference, we got feedback from many friends having been able to remotely attend part of the conference or even watch all talks flawlessly!
-- **This year again**, we are proud to say that the **videos of all talks** of each day [have been put online](https://passthesalt.ubicast.tv/channels/#2024) **each evening**. Hats off to the team members involved 👏
-- **All slides** have also been [put online](https://archives.pass-the-salt.org/Pass%20the%20SALT/2024/slides/) at the end of the conference on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/) 🚀
 
-*Our feedback:*
-> - **(near) Emergency video team replacement.** This year, due to a late agenda conflict, our friends and partners from [Ubicast](https://www.ubicast.eu/), who previously managed on-site recording and streaming of the conference, **haven't been able to come on site**. It was quite a problem for us because the organization team does not have the manpower nor the know-how to record/stream an event like Pass the SALT.
-> - As we are big fans of [Cooper](https://x.com/ministraitor)'s [recording work](https://administraitor.video/) during many infosec conferences we have attended/talked, we asked him (very lately!) if he would be able to come to record our talks. And guess what? He said *"Yes, I can!"* 😍
-> - And everything worked like a charm! Cooper did a fantastic job (recording, fixing all potential problems with the help of blazing fast Laurent, the Polytech video guy). 
-> - We are **so thankful to Cooper for his commitment, his hard and quality work and his willingness to interact smoothly with all team members!** Thanks so much from all the team! 🙏
-> - The **Ubicast team** has been there to answer all our questions very efficiently and to provide the infrastructre and the video portal to do the streaming. **Thanks a lot to them!**
-> - Finally, hats off to the volunteers in the audience who helped out with the video camera during the conference!
+**Video team** this year, our friends Fred and Florent from [Ubicast](https://www.ubicast.eu/) are back behind the camera and the result has been outstanding as always! 🎉
 
-### 2024 highlights
+**Contents** each talk has been live streamed, recorded and the recording has been put online very quickly (<24h) due to a join effort of Ubicast guys and PTS team members @doegox and @_cryptocorn_ 🤩
 
-- **Sessions:** after boot security and supply chain security in 2023, this year again, we managed to setup a new session alongside regular ones (DFIR, low level, reverse, network, pentest, crypto etc): **WebPKI and Trust**. 
+💚 **Streaming:** we had between **40 and 50 people connected** to the streaming during all the 3 days which is a really good figure for us!
 
-During this session, we had the opportunity to receive on the same stage Aaron Gable and Philippe Boneff, tech leaders of two major projects for Web security: Let's Encrypt and Certificate Transparency software at Google. This new session seems to have been really appreciated by attendees and surely, by the team. 🙏
+![videoteam](/images/videoteam.jpg)
+<br> *Video team: Fred & Florent from Ubicast. Photo by @julioloayzam* . 
 
-![sessions](/images/report-sessions.png)
+📣 A **very special thanks to Florent Thierry** (^on the right) from Ubicast that ends his long journey with Ubicast at #PTS25. Thanks so much Florent for these 15 years of support, expertise and kindness  from our early RMLL years to this edition of Pass the SALT 🙏 
 
-- **Speakers:** unlike for the 2023 edition, we haven't faced any specific problem during our contacts with potential speakers coming from big tech companies. The main reason for not being able to come has been (personal or professional) **agenda conflicts** which is totally legit. We also experienced pleasant situations with **very open minded speakers** who didn't know PTS previously and decided to submit to the CfP right after our contact or even better, just after learning PTS exists!
-
-## Attendees and Speakers Feedback
-
-All the graphics/figures below are coming from the post-event survey.
-
-### Attendees feedback
-
-**Event experience**
-The general event experience of our attendees has been very good (31% good or 69% perfect). And every single attendee would like to come back next year!
-
-![experience](/images/report-experience.png)
-
-Attendees globally liked the event (communication, venue, pauses).
-
-*Positive points underlined by attendees:*
-- ease and quality of the networking with relaxed and open minded speakers,
-- accessibility of the venue, 
-- power available in many spots of the main room.
-
-But 2 points were cited half less than other: foodtrucks for lunch and the social on 2nd day evening.
-
-*Foodtruck:* we can share some facts about the foodtruck. We faced real problems to have a different foodtruck for the second day. At the end (less than a week before the event), we had to fallback on having the same foodtruck for day 2. Not a perfect solution, but at least, unlike last year, it provided several veggie options :) 
-
-*Social event:* it is less understandable for us. Unlike the speakers dinner (more on this below), we have been received by the 3 Brasseurs bar in a large dedicated space with an open terrace. **New** We delivered this year a lot of free lunch tokens (for each table and more) in addition to 2 free drinks. The day after, we even received good feedback IRL 🤷‍♂️
-
-🛠️ Let's browse **2023 list of suggested improvements** and look at the **things we deployed to answer them**:
-- Clearer practical info page on the website ;<br>
-  **> org answer:** this year, we provided more detailled info page and put way more links to it on our different websites.
-- Improve the event communication ;<br>
-  **> org answer:** we communicated on 3 different social networks (X, Mastodon and **[new]** this year, on LinkedIn). We communicated on these networks regularly since January, weekly since May.
-- Improve the catering offer during the midday break (especially veggie)<br>
-  **> org answer:** as explained upper, we didn't manage to have a different foodtruck for the second. But it provided several veggie options to attendees.
-  
-🛠️ List of suggested improvements by our attendees  **after this year edition**:
-- **chat/hack zone:** add a space for it in the central alley <br>
-  **> org:** nice and legit proposal, will work on it,
-- **more speakers diversity:** _"... because it was a little bit "~30/40 years old white male" "_ <br>
-  **> org:** a recurrent and completely legitimate request but a hard one 😔 We will try harder (and differently also!),
-- **luggages room:** having one would be more comfortable <br>
-  **> org:** sure. This year, school provided us a room but it was too far into the building to be practical and safe. We will try to do better next year,
-- **branding:** in order to emphasize the own and unique soul of the conference, provide more branding with big banners at the front of the school, in alley, into the main room etc. Maybe also some merchandising<br>
-  **> org:** it requires more expenses (for branding) and a lot of added work for merch but we will look at it carefully 👍️,
-- **start:** starting later on the first day to enable people coming from Paris to arrive more comfortably <br>
-  **> org:** will try too. We also currently don't know if we will come back on a conference start on Monday 2:00 PM like before or not,
-- **lack of students:** some of you suggest that students may be perfect targets for a lot of talks and workshops of the conference. And it was so a surprize for you to not having more of them in the attendance<br> 
-  **> org:** unfortunately, in early July, most of the students have left the school to go back to home or to do internship in companies.
-
-**Talks and workshops**
-
-![talks level](/images/report-talks.png)
-
-- Attendees appreciated the high quality level of both the talks and workshops,
-- The [only talk](https://passthesalt.ubicast.tv/videos/2024-shufflecake-aka-truecrypt-on-steroids-for-linux/) not live delivered but previously recorded by its speaker (due to private reasons) has been really appreciated with its very dynamic and interactive remote live Q/A session. Thanks [Tommaso](https://www.linkedin.com/in/tommasogagliardoni/?originalSubdomain=ch) for this effort and your commitment 👍️ 
-
-![tommaso](/images/report-tommaso.png)
+Fred (left) has brilliantly taken over, and we are very happy to continue this PTS video adventure with such warm and competent people!
 
 ### Speakers feedback
 
 ![speakers experience](/images/report-speakers.png)
 
-Speakers have globally really appreciated:
-- coming to the event to deliver their talk/WS, 
-- attending others talks and interact during social moments with speakers of their session but also those coming from other communities (low level and reverse, crypto, PKI, network and system...).
+The feedback of the speakers collected IRL and through the post event form has been **really positive**. 
 
-🎁 The reward bag (with of course, some grams of flower of salt inside 😉) we provided to reward our commited speakers has been really appreciated too!
+💚 Main **positive points** have been:
 
-But there is always room for improvement :)
+- size and setup of the event allowed them to **chat with old friends and new people very easily**.
+- speakers and attendees are **all relaxed and open minded**.
+- despite the small size of the event(or because?), many new speakers have been surprised by the **high level of expertise** demonstrated all along the conference by people on stage.
+- speaker gift and pauses content have been unanimously appreciated.
+- 🤩 several speakers have pointed and appreciated the level of details (hand crafted badges, coins, **everything published openly** from talks to this report and more)
 
-🛠️ List of **suggested improvements by 2024 speakers**:
-- **speakers dinner:** it was unanimously identified as the main area for improvement this year. Too small, too noisy, food, despite being good, came too late in the evening etc. <br>
-  **> org:** we totally agree. We will look for a different and bigger location for the next edition.
-- **wifi:** despite improvements since previous editions, access to the wifi seems to have been tricky sometimes, notably in the workshop area.<br>
-- **feedback on talk/workshop content and delivering:** some of you have asked if it would be possible to get feedback from attendees. <br>
-  **> org:** a totally legit question but we have not yet found the medium to do it efficiently. It is a work in progress on our side. <br>
-- **Q/A:** a speaker has been complaining about the lack of time given to attendees when they have no question coming quickly enough after the talk.<br>
-  **> org:** usually, in this case, the person chairing the session always asks the first question. We will try to be more vigilant to give more opportunity to attendees to ask their questions.
+↗️ **Some improvements** have also been requested by speakers:
 
-## Budget & Sponsoring
+- speakers dinner has not been a perfect fit this year again (more room than in 2024 but less food, not top notch quality, quite noisy). Finding the right location for this speakers dinner is definitively the oldest challenge that we have not yet managed to overcome (perfectly)!
+- several speakers have indicated that **too many emails** have been sent before the event (4/5) and they would like less emails, for example one or two with all required information on them. We will try to do it that way :) We have already 2 dedicated web pages for practical and speakers dedicated information.
+- some adjustements on our Pretalx instance should be done in order to make speakers addition to an already proposed talk more reliable.
+- adding a physical timer on stage would be great.
 
-Pass the SALT is [since day one a free conference](https://www.pass-the-salt.org/about/#how-to-reach-our-goals) (as in free beer) that gives access to the attendees to all talks, workshops but also pauses and social events at no cost. 
+## Audience
 
-For us, it is the way to ensure that anybody, regardless of their context and financial capabilities, can have access to state-of-the-art knowledge in Security and Free Software areas but also to exchanges with all community members.
+### Figures
 
-We have seen **some evolution in our sponsors line-up**: a long time supporter decided to move away (Google) and we are very grateful for its long-term support. We have also welcomed **three new sponsors** (**Passbolt**, **Cyberzen** and **Seek IT Security**) and we thank them warmly to **join others sponsors and partners** (**Gandi**, **Quarkslab**, **Lexfo**, **Synacktiv**, **Randorisec** and **Polytech**) to allow us to run this new edition 👍️ 
+With 170 registered and 140 checked-in people, **2025 has been a good year!** 
 
-The organization team really wants to thank all our [sponsors and partners](https://2024.pass-the-salt.org/#sponsors) for their support and without who nothing would have been possible 👏🙏
+As indicated in the summary, we are really happy of this year **historically low level of no show (17.6%)** 🤩  
 
-![sponsors](/images/report-sponsors.png)
+Thanks to all committed attendees, it really matters for us!
+
+### Geography & new comers
+
+| Lille      | France (except Lille area)   | (rest of) Europe with UK | (rest of the) World |
+| --------- | ----------------------------- | ------------------------ | ------------------- |
+| **28.4%**  | **47.3%**                    | **19.6%**                | **4.7%**            |
+
+We have been really pleased to have really more attendees coming from Europe and the rest of the world (x3 regardinbg 2024). **Diversity of speakers background** (private experts, academics, FLOSS devs, activists etc) **and nationality** has surely been a lever to reach these figures.
+
+We asked also during registration if 2025 was their first Pass the SALT edition: **35% of new comers**. After 8 editions, we have finally reached the point where we have a core of regular attendees. We will try to always attract new people but it is also a real satisfaction to have committed people that come back for good reasons :)
+
+### Occupation
+
+| Occupation          | Value     | 
+| ------------------- | ----------|
+| **Private sector**  | **53.7%** | 
+| **Public sector**   | **18.8%** | 
+| **Students**        | **14.1%** | 
+| **Academic**        | **08.1%** | 
+| **Other**           | **05.4%** | 
+
+We doubled the percentage of students and academics this year regarding 2024. Maybe the impact of the new location, more in town?
+
+### Attendees feedback
+
+💚 People appreciated:
+
+- **Location:** being near downtown, possible to come by foot, bus or metro, gardens.
+- **Pauses quality and diversity**
+- **Exchange:** easy to chat with everybody, speakers included due to the small size, setup and the open minded state of everybody.
+- **Talks quality, expertise level, diversity of topics**
+
+↗️ Some improvements or regrets also:
+
+- **No food trucks anymore** 👉️ Impossible to have them inside the university
+- **Having rooms dedicated to specific purposes:** specific topics discussions, low noise/break room etc 👉️We will try work on this, really!
+- **Use the garden to do pauses** 👉️ Not sure due to the downstairs position of the lecture hall regarding the garden but why not.
+- **Better signage for the event** 👉️ Difficult to do less than this year! We will try to improve it.
+- **Some would like to have multi tracks in order to stay on topics they liked** 👉️ Unfortunately it is not the soul nor the mission of the event. We want to build bridges between communities and the way to reach this goal starts by ... listenning to each others :)
+
+## Sponsors
+
+![sponsors](/images/sponsors.png)
+
+This year, [Penthertz](https://www.penthertz.com/) and [Epsilon](https://www.epsilon-sec.com/) joined our group of sponsors that support us on a mid to long term. Thanks so much to all of you, it simply allows us to exist and provide to the community this free event, share its content full of security expertise and moments to meet and collaborate 💚
+
+## Budget
 
 In order to provide transparency to all but also to help everybody who would like to launch their own event, whe share the big lines of the budget:
 
-**Approx. Budget: 15.000€~**
+**Approx. Budget: 14.000€~**
 
 **Approx. Budget breakdown in %:**
-- **35.3%:** catering (pauses, social event, spearkers dinner)
-- **33.2%:** travel expenses reimbursement
-- **22.0%:** onsite communication, identification and rewards expenses (badges, lanyards, tokens, kakemonos, stickers, speakers rewards etc)
-- **8.5%:** onsite private security company services (*) 
-- **2%:** recurrent expenses (bank account, servers, domain name etc).
-
-(*) **New requirement in 2024:** due to the highest level of terrorism threat on all the French territory, Polytech has been required to have private access control forces for all events held into its building. So, we have inherited this obligation. We are crossing fingers to see this requirement cancelled after the end of Olympic Games 🤞
-
-## Some org team thoughts 
-
-### Collaboration born from discussions during the conference
-
-[Sharing and collaboration](https://www.pass-the-salt.org/about/#our-goals-for-pass-the-salt) are the main reason behind the existence of this conference and we are delighted to share these first two accomplishments that emerged directly from discussions during the 2024 edition:
-- [Quentin JEROME](https://github.com/qjerome), [Kunai](https://github.com/kunai-project/kunai) main developer, [added logs rotation](https://x.com/passthesaltcon/status/1814267712165572687) with max size and compression to his product 2 weeks after a discussion with attendees (@xme and @DavidSzili ?) during the conference 👏
-- very early discussions started between **Certificate Transparency** community members and an Internet provider in order to evaluate the opportunity to implement the first CT log in Europe. Let's see where this will take us🤞🙏
-
-You can find **all the collaborations that were born during the conference** (at least those we heard of!) on the [dedicated page](https://www.pass-the-salt.org/achievements/#contributions) of our website 🙏❤️
-
-### Expert but cool and open minded speakers
-
-Before concluding, just a nice side note to illustrate the kind of relaxed yet high-level speakers you can have access to **freely** (as in free beer but also as in free speech) and **easily** during Pass the SALT talks, workshops and social moments:
-
->- a close friend of us (and speaker!) told us on last day that he sadly wasn't able to attend the workshop about Landlock (an open source Linux application sandboxing solution),
->- we answered that we can introduce him to Mickaël Salaün who gave the workshop,
->- after the exchange, our friend came back to us happy but also shaken: _"Mickaël answered to all my questions, it is wonderful! But I was shocked because I discovered during the talk that he wasn't an advanced user of Landlock like I presumed before but he was ... the Linux kernel developer who designed, developed and landed Landlock into the Linux Kernel 👀 Nothing less than that, it is incredible!"_ 😉❤️🚀
-
-It is for us the perfect illustration of what we want to provide to all the Security & Free Software community members, old and new: **a free, open and human sized event** where everybody can listen, exchange and collaborate easily with **high level yet accessible and open minded speakers from all over the world** 🙏
-
-![experts](/images/report-experts.png)
-
-### Team is growing 🫶
-This year, we welcomed two new and young members inside the D-day org team. They have brought with them their volunteer and event organization experience alongside their enthusiasm. Thanks a lot to them! 
-    
-Their arrival also forced us to better document the way we operated before the conference, as well as during the event itself. We really hope it has been enough but their feedback seems to indicate that we haven't been too bad as they have already engaged themselves to be there next year 😉
-
-### Some innovations
-**Privacy lanyards:** last year, we have tried to increase **privacy** during the event for our attendees who wanted to by providing them a **specific lanyard** which indicates to all others participants that they don't want to appear on photos. Due to its 2023 success, we have perpetuated it! 
-
-**AI:** this year, like many of you, we have **given a try to AI** to generate **some of our images to communicate** on social media.
-
-![ai](/images/report-ai.png)
-
-**Badges:** last, as each edition, we provide **wooden badges** (openly documented of course). And this year, inspiration has not been so hard to find 😉
-
-![badges](/images/report-badges.png)
+- **47%:** catering (pauses, social event, spearkers dinner)
+- **24%:** travel expenses reimbursement
+- **16%:** onsite communication, identification and gifts expenses (badges, lanyards, tokens, kakemonos, stickers, speakers gifts etc)
+- **10%:** recurrent expenses (bank account, servers, domain name etc).
 
 ## Conclusion
 
-Finally, according to survey results, speakers and attendees feedback, 2024 edition seems to have been a good one 🙂 All the speakers got the opportunity to share their last research and development with their community but also with people (attendees and speakers) coming from other communities of the Security and Free Software landscape. And this, in the relaxed atmosphere of a human sized event! ❤️
+Each year, we try to produce the best event possible through high quality content on hot topics and all of this in a as warm and open atmosphere possible. At the end of the day, we just hope you will live a great event 
 
-We know that we have a lot of work ahead of us to address the different improvements asked by speakers and attendees, we are going to do our best to reach their expectations!
+And when some speakers like Philippe and Thibault dropped us these kind words, we were just in a #JobSeemsToBeDone mood ❤️
 
-We let the finals words go to two of our great speakers:<br>
-*Src: speakers survey*
+**Philippe:** _"Thanks for organizing the conference and having us! It was great - I really enjoyed the talks, the vibe and meeting everybody who came from all over. And a special mention for... the snacks provided throughout the conference!"_<br>
+**Thibault:** _"I second that. A great attention to details as well!"_
 
-- Xavier Mertens aka [@xme](https://x.com/xme): *"Awesome as usual. Small event but a concentration of crazy people"*
-- Thomas Chopitea aka [@tomchop_](https://x.com/tomchop_): *"As usual, PTS is a great event with a tight-knit community. I love coming here and interacting with speakers, attendees, and organizers :)"*
+**_"attention to details"_** our small size (170p registered, 140 came) allows us to (try to) pay attention to details such as among others things custom badge design & fabrication in a fablab, specific lanyard for people requiring privacy, sharing everything (CFP & attendees figures, budget, slides/videos, badges design, contribs born during con etc), trying to speak with the vast majority of attendees and to all speakers etc. <br>
+👉️ **It is really important for us and we really appreciate when it is pointed** 🙏 #SmallisBeautiful
 
-<img src="/images/report-team.jpg" width="609"/><br>
 
 It has been a blast! See you at #PTS25! 👋 😘<br>
-**Pass the SALT 2024 organization team**
+**Pass the SALT 2025 organization team**
+
+![team](/images/team.jpg)
