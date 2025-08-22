@@ -35,7 +35,7 @@ _Lecture hall. Photo by @julioloayzam._<br>
 
 💚 The variety of **transportation options** to get there (15 minutes by bus, 25/30 minutes on foot, 2 metro lines) provided **resilience and comfort for everyone**.
 
-💚 The **green spaces** in an inner courtyard were **greatly appreciated** by participants, especially with this temperature. <br><img src="/images/jardins.jpg" alt="Gardens inside university" width="100%"/>
+💚 The **green spaces** in an inner courtyard were **greatly appreciated** by participants, especially with this temperature. <br><img src="/images/jardins.jpg" alt="Gardens inside university" width="65%"/>
 
 😔 **No easy parking** for those arriving by car, including the organizers; we will work on this if we return to this venue.
 
