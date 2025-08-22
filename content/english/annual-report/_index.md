@@ -4,16 +4,16 @@ permalink: /annual-report/
 ref: report
 ---
 
-Pass the SALT is a **free access, English spoken, 3-day conference** dedicated to Free software and Security. It provides a single track of talks and some workshops in parallel.<br><br>
+Pass the SALT is a **free access, English-spoken, 3-day conference** dedicated to Free Software and Security. It features a single track of talks with some parallel workshops.<br><br>
 
-This document is **our annual report for the 2025 edition** of the conference. We share all the figures, our insights and analysis about the event.
+This document is **our annual report for the 2025 edition** of the conference. We share all the figures, insights, and analysis about the event.
 
 Direct sections access:
 - **[TL;DR summary](#tldr-summary)**,
   - **[new location](#new-location)**,
   - **[conferences](#conferences)**,
   - **[attendance](#attendance)**,
-  - **[some news features](#some-new-features)**,
+  - **[some new features](#some-new-features)**,
   - **[failures and challenges](#failures-and-challenges)**,
 - **[More event details](#more-event-details)**,
   - **[conferences and workshops](#conferences-and-workshops)**,
@@ -31,92 +31,92 @@ Due to the unavailability of the Polytech lecture hall for our dates, we had the
 
 _Lecture hall. Photo by @julioloayzam._<br>
 
-💚 The semi-underground lecture hall finally **handled quite well the high peak heat** (38°C on the first day).
+💚 The semi-underground lecture hall **handled the high peak heat quite well** (38°C on the first day).
 
 💚 The variety of **transportation options** to get there (15 minutes by bus, 25/30 minutes on foot, 2 metro lines) provided **resilience and comfort for everyone**.
 
-💚 The **green spaces** in an inner courtyard have been **really appreciated** by participants, especially with this temperature. <br><img src="/images/jardins.jpg" alt="Gardens inside university" width="100%"/>
+💚 The **green spaces** in an inner courtyard were **greatly appreciated** by participants, especially with this temperature. <br><img src="/images/jardins.jpg" alt="Gardens inside university" width="100%"/>
 
-😔 **No easy parking** when coming by car, including for the organizers; we will work for it if we come back there.
+😔 **No easy parking** for those arriving by car, including the organizers; we will work on this if we return to this venue.
 
-😐 No possibility of setting up food trucks. But there are a variety of street food restaurants nearby (5 min walk) 👍
+😐 No possibility of setting up food trucks. However, there are a variety of street food restaurants nearby (5-minute walk) 👍
 
 ## Conferences
-
 PTS is a single-track conference with parallel workshops.
 
 **Figures:** 49 submissions, **32 accepted**, including 4 invited (12.5%), for an **acceptance rate of 65%**. 👍
 
-2024: 39, 30, 2 invited (6.66%), 76.9%.
+2024: 39 submissions, 30 accepted, 2 invited (6.66%), with an acceptance rate of 76.9%.
 
-We had also 6 workshops given all along the event (9 in 2024). 
+We also had 6 workshops throughout the event (compared to 9 in 2024).
 
 **New in 2025** 
 
-💚 a **secured messaging session** with very diverse and expert speakers,
+💚 A **secured messaging session** featuring diverse and expert speakers.
 
-💚 **more academic speakers**,
+💚 **More academic speakers** joined this year.
 
-💚 speakers coming from **more diverse horizons** than the previous editions due to CFP pushing to new ecosystems (academia, messaging, hacktivists).    
+💚 Speakers came from **more diverse backgrounds** than in previous editions, thanks to CFP outreach to new ecosystems (academia, messaging, hacktivists).
 
 ## Attendance
 
-**Figures:** 170 registered, **140 present**. After 8 editions, we can say that 130-170 is the typical size that fits the soul of the event where people can talk to everybody, speakers and attendees, in a comfortable and warm manner 💚
+**Figures:** 170 registered, **140 present**. After 8 editions, we can confidently say that 130-170 attendees is the ideal size for the event, fostering a comfortable and warm atmosphere where everyone can interact with both speakers and attendees 💚.
 
-❤️ **2025 no-show rate: of 17.6%** (2024: 176/128, representing a no-show rate of 28%). As a free conference, we are **very happy** with these improving figures and the sharp drop in no-shows. Unfortunately, we don't have any further explanations for this figure 😐️
+❤️ **2025 no-show rate: 17.6%** (2024: 176 registered, 128 present, representing a no-show rate of 28%). As a free conference, we are **very happy** with this improvement and the sharp drop in no-shows. Unfortunately, we don't have further insights into the reasons behind this figure 😐️.
 
-**Language:** As this was a conference held in English, we were very pleased to have **~20% of non-French speaking people 🇬🇧**, which is better than in the past. In particular, we had a larger number of Germans involved in activism and privacy (see presentations on the subject).
+**Language:** As the conference was held in English, we were pleased to have **~20% of non-French-speaking attendees 🇬🇧**, which is an improvement over past editions. Notably, there was a larger presence of Germans involved in activism and privacy (see related presentations).
 
 ## Some new features
 
-**Main point of contact for Code of Conduct enforcement:** this year, Nathan took the lead of the inclusion and safety initiative and will be able to bring his expertise in the domain to the organization. Thanks for it, Nathan 🙏 <br>![nathan](/images/nathan2.jpg)
+**Main point of contact for Code of Conduct enforcement:** This year, Nathan took the lead on the inclusion and safety initiative, bringing his expertise to the organization. Thank you, Nathan 🙏 <br>![Nathan](/images/nathan2.jpg)
 
-**Best rump award:** we decided to distinguish the best lightning talk based on instant voting by the audience via an online service. It has been **fun** and **appreciated** by attendees and rumps speakers 🥇<br><img src="/images/best-rump-award.jpg" alt="best rump award" width="70%"/>
+**Best rump award:** We introduced an award for the best lightning talk, determined by instant audience voting via an online service. This was **fun** and **well-received** by attendees and rump speakers alike 🥇<br><img src="/images/best-rump-award.jpg" alt="Best rump award" width="70%"/>
 
-**Mascot:** Salty, hand maded by @\_cryptocorn\_, was born during the conference and made a brief appearance 😍 We can capitalize on its existence in future communications. <br><br><img src="/images/salty.jpg" alt="SALTY" width="100%"/><br>_Salty. Photo by @julioloayzam._<br>
+**Mascot:** Salty, handcrafted by @\_cryptocorn\_, made its debut during the conference and was a hit 😍. We can build on its presence for future communications. <br><br><img src="/images/salty.jpg" alt="Salty" width="100%"/><br>_Salty. Photo by @julioloayzam._<br>
 
-**Org lunch:** the organizers allocated a budget to order food and have it delivered. This allowed us to **eat together**, work until the delivery arrived, chat, without the hassle of finding somewhere to eat, going there, coming back, etc. And it was great! 🤩
+**Org lunch:** The organizers allocated a budget for food delivery, allowing the team to **eat together**, continue working until the food arrived, and enjoy a relaxed meal without the hassle of finding a place to eat. It was a great addition! 🤩
 
 ## Failures and challenges
-
-### 1. Most epic first day in PTS history<br><br>
-
+### 1. Most epic first day in PTS history
 ### 🚨 Server down 1 hour before conference start
-Our **main server crashes one hour before the conference starts at 2 p.m.** It hosts the website, including  practical information on how to get there and the program, but not the ticket office. OVH works on it all afternoon.<br><img src="/images/everything.png" alt="everything is fine illustration in front a wall of flames" width="100%"/>
 
-**Immediate impacts** 
-  * **Many people were lost**. As previously said, this year, we changed the conference location. 1 p.m. on the first day is the exact time when most participants are looking for the practical information page on how to get there, and... the server is down. So they search from memory for “Université Catholique de Lille” on Maps, which sends them to another building further up the boulevard because the university occupies an entire neighborhood.<br>👉 **Server down, first  day, 1 hour before start of the con held in brand new location. All of this under 38°C. No worst time possible for this crash to happen!**
-  * **Speaker absent:** this story causes our first speaker fail to join us on time, but he ends up arriving. In the end, we just swapped him with the second speaker (a big thank to Vincent Lopes!).
+Our **main server crashed one hour before the conference started at 2 p.m.** It hosted the website, including practical information on how to get there and the program, but not the ticket office. OVH worked on it all afternoon.<br><img src="/images/everything.png" alt="everything is fine illustration in front of a wall of flames" width="100%"/>
 
-**Crisis management** 
-  * 📣 As soon as we detected that the server was down, we (re)communicate the university's address via social media (X, Mastodon, LinkedIn). **Finally, people end up arriving more or less on time** 🎉 
-  * 🛠️ **Recovering temporary website:** in the middle of the afternoon, we put **the site back online on Github Pages** thanks to the fact that it is mostly static (Hugo). The program based on Pretalx, which is self-hosted on the server, was affected. Fortunately, we were **able to replace the program with a PDF** generated elsewhere for physical display. <br><br><img src="/images/recovery-team.jpg" alt="2025 recovery team" width="100%"/><br> *The recovery team at work to bring up a backup website online. Photo by @julioloayzam.* <br><br>
-  * **Server is back:** the server has been repaired and given back to us by OVH at 8 p.m. Everything on it was changed except for the disks, which meant we didn't have to do a full restore. The logs mention the CPU overheating. From there, it's easy to think that the data center's air conditioning had a hard time keeping the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
+**Immediate impacts**  
+  * **Many people were lost:** As mentioned earlier, this year we changed the conference location. 1 p.m. on the first day is the exact time when most participants were looking for the practical information page on how to get there, and... the server was down. Many searched from memory for “Université Catholique de Lille” on Maps, which sent them to another building further up the boulevard because the university occupies an entire neighborhood.<br>👉 **Server down, first day, 1 hour before the start of the conference held in a brand-new location. All of this under 38°C. No worse time possible for this crash to happen!**
+  * **Speaker absent:** This situation caused our first speaker to fail to join us on time, but he eventually arrived. In the end, we simply swapped him with the second speaker (a big thank you to Vincent Lopes!).
 
-**Law of series:** at the end of the conference, when we wanted to save the videos/slides from the year from our archive site to our backup disk, as we do every year, the data from the previous 15 years (RMLL+PTS) told us... *“We're gone, bye!”*. #WhenItDoesn'tWork. We backed up everything again.
+**Crisis management**  
+  * 📣 As soon as we detected that the server was down, we (re)communicated the university's address via social media (X, Mastodon, LinkedIn). **Finally, people ended up arriving more or less on time** 🎉  
+  * 🛠️ **Recovering temporary website:** In the middle of the afternoon, we brought **the site back online on GitHub Pages** thanks to the fact that it was mostly static (Hugo). The program, based on Pretalx and self-hosted on the server, was affected. Fortunately, we were **able to replace the program with a PDF** generated elsewhere for physical display. <br><br><img src="/images/recovery-team.jpg" alt="2025 recovery team" width="100%"/><br> *The recovery team at work to bring up a backup website online. Photo by @julioloayzam.* <br><br>
+  * **Server is back:** The server was repaired and returned to us by OVH at 8 p.m. Everything on it was replaced except for the disks, which meant we didn't have to do a full restore. The logs mentioned CPU overheating. From there, it's easy to speculate that the data center's air conditioning struggled to keep the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
 
-**Conclusion:** we have a good post mortem analysis to do in order to build a more resilient infrastructure. But we'll say it again: **static site with markdown sources + Hugo + a repo on GitHub is a really good and cheap way to go** 💯
+**Law of series:** At the end of the conference, when we wanted to save the videos/slides from the year from our archive site to our backup disk, as we do every year, the data from the previous 15 years (RMLL+PTS) told us... *“We're gone, bye!”*. #WhenItDoesNotWork. We backed up everything again.
 
-### 👀 Schrödinger Microphones 
+**Conclusion:** We have a good post-mortem analysis to do in order to build a more resilient infrastructure. But we'll say it again: **static site with markdown sources + Hugo + a repo on GitHub is a really good and cheap way to go** 💯 
 
-At start of the conference, we had one more surprise ;)
+### 👀 Schrödinger Microphones
 
-Org: *"we don't have any Quantum talks, what a pity!"*<br>
+At the start of the conference, we had one more surprise ;)
+
+Org: *"We don't have any Quantum talks, what a pity!"*  
 Local video team: *"Hold my beer!"*
 
 During our first talks, we faced **disappearing & reappearing microphones** with no particular reason!
 
-But, of course, there is always a reason!
-* **Root cause:** using network multicast mics on IT network requires filtering… and as all network people know since decades: ***”Correct filtering is hard”***
-* **Solution:** let's back to old-fashion equipment! Yes, KISS solutions are often the way to go when you want to stay calm and keep an event on track ;)
+But, of course, there is always a reason:  
+- **Root cause:** Using network multicast mics on the IT network requires filtering… and as all network people know for decades: ***“Correct filtering is hard.”***
+- **Solution:** Let's go back to old-fashioned equipment! Yes, KISS solutions are often the way to go when you want to stay calm and keep an event on track ;)
+
+---
 
 ### 2. The conference's late finishers challenge 🔥
 
-About an hour after the conference ended, everything was packed up and all organizers and late speakers/participants headed to the station to go home. 
+About an hour after the conference ended, everything was packed up, and all organizers and late speakers/participants headed to the station to go home.
 
-* 🎉 First step: **avoid the Tour de France parade** (which officially started two days later): it was impossible to get there on foot or by bus. **Our communication started the day before clearly worked**, as no one reported any difficulties.
-* 🤦‍♂️ Once we arrived at the station: the **Lille-Paris line was cut** first due to a **collision between a TGV train and a wild boar**, **followed by a fire on the tracks (5-meter flames)**. It was a huge hassle for those who were finally able to board a train. <br><img src="/images/sanglier-incendiaire.png" alt="AI generated image to illustrate post event train failure" width="100%"/> <br> *AI-generated image of an incendiary boar by @regiteric*
-* Main impact: a **large part of the organization, some speakers, and participants** were **stuck in Lille for one more night**. This did, however, lead to a final group meal in good spirits for those who were stuck! 😎 🍻
+- 🎉 First step: **Avoid the Tour de France parade** (which officially started two days later). It was impossible to get there on foot or by bus. **Our communication started the day before clearly worked**, as no one reported any difficulties.
+- 🤦‍♂️ Once we arrived at the station: the **Lille-Paris line was cut**, first due to a **collision between a TGV train and a wild boar**, followed by a **fire on the tracks (5-meter flames)**. It was a huge hassle for those who were finally able to board a train. <br><img src="/images/sanglier-incendiaire.png" alt="AI-generated image to illustrate post-event train failure" width="100%"/> <br> *AI-generated image of an incendiary boar by @regiteric*
+- **Main impact:** A **large part of the organization, some speakers, and participants** were **stuck in Lille for one more night.** This did, however, lead to a final group meal in good spirits for those who were stuck! 😎 🍻
 
 # More event details
 
@@ -133,22 +133,20 @@ About an hour after the conference ended, everything was packed up and all organ
 | 2019                 | 46            | 35            | 3 (12.0%)                         |    76.0%         |
 | 2018                 | 37            | 29            | 2 (06.0%)                         |    78.3%         |
 
- 
-💚 **Number of submissions:** we are happy with the level and quality of the submissions. It is always a fight to get enough but also good quality content and this year is a good one! We had 26 talks and the number of workshops is also quite high (6) occupying all available slots.
+💚 **Number of submissions:** We are happy with the level and quality of the submissions. It is always a challenge to get enough content while maintaining high quality, and this year has been a success! We had 26 talks, and the number of workshops was also quite high (6), fully occupying all available slots.
 
 <img src="/images/workshop.jpg" alt="2025 workshop" width="100%"/> 
 <br> 
 
-*Pauline & William workshop. Photo by julioloayzam* 
+*Pauline & William's workshop. Photo by @julioloayzam* 
 
-💚 **New in 2025** partly due to our extended core team, our CFP announcement and topics ideas have been able to be pushed to **different new ecosystems** (low level, secure messaging, privacy) but **also to more academics** we weren't able to reach previously. By this way, we have also been able to attract some attendees we usually didn't see at PTS (German activits for example).
+💚 **New in 2025:** Partly due to our extended core team, our CFP announcements and topic ideas were pushed to **new ecosystems** (low-level, secure messaging, privacy) and **more academics** we hadn't reached before. This effort also attracted attendees we usually didn't see at PTS, such as German activists.
 
-💚 **New in 2025**
-After boot security in 2023 and PKI/transparency in 2024 (which came back this year!), the **secured messagaing session** has been a good example of panel of different kind of speakers and topics (IETF and messging expert, long term OSS developer, researcher, core team of large secure messaging deployment), all with a high level of expertise.
+💚 **New in 2025:** After focusing on boot security in 2023 and PKI/transparency in 2024 (which returned this year!), the **secured messaging session** stood out as an excellent example of diverse speakers and topics. It featured IETF and messaging experts, long-term OSS developers, researchers, and core team members of large secure messaging deployments, all showcasing a high level of expertise.
 
-We also have the **opportunity to have low level experts from academics** which is new for PTS! 
+We also had the **opportunity to host low-level experts from academia**, which is a first for PTS!
 
-### Geograpical speakers distribution
+### Geographical speakers distribution
 
 | Year      | France   | (rest of) Europe | (rest of the) World |
 | --------- | -------- | ---------------- | ------------------- |
@@ -157,64 +155,63 @@ We also have the **opportunity to have low level experts from academics** which 
 | 2023      | 74%      | 22%              | 4%                  |
 | 2022      | 77%      | 23%              | 0%                  |
 
-The geographical distribution of our speakers is quite in the average of the conference.
+The geographical distribution of our speakers aligns with the conference's historical averages.
 
-### Recording, streaming and slides
+### Recording, streaming, and slides
 
-**Video team** this year, our friends Fred and Florent from [Ubicast](https://www.ubicast.eu/) are back behind the camera and the result has been outstanding as always! 🎉
+**Video team:** This year, our friends Fred and Florent from [Ubicast](https://www.ubicast.eu/) returned behind the camera, and the results were outstanding as always! 🎉
 
-**Contents** each talk has been live streamed, recorded and the recording has been put online very quickly (<24h) due to a join effort of Ubicast guys and PTS team members @doegox and @_cryptocorn_ 🤩
+**Content:** Each talk was live-streamed, recorded, and made available online very quickly (<24 hours) thanks to the joint efforts of the Ubicast team and PTS team members @doegox and @_cryptocorn_ 🤩
 
-💚 **Streaming:** we had between **40 and 50 people connected** to the streaming during all the 3 days which is a really good figure for us!
+💚 **Streaming:** We had between **40 and 50 people connected** to the live stream throughout the 3 days, which is a great figure for us!
 
 <img src="/images/videoteam.jpg" alt="2025 video team" width="100%"/> <br> 
 
 _Video team: Fred & Florent from Ubicast. Photo by @julioloayzam_ . 
 
-📣 A **very special thanks to Florent Thierry** (^on the right) from Ubicast that ends his long journey with Ubicast at #PTS25. Thanks so much Florent for these 15 years of support, expertise and kindness  from our early RMLL years to this edition of Pass the SALT 🙏 
+📣 A **very special thanks to Florent Thierry** (on the right) from Ubicast, who concluded his long journey with the company at #PTS25. Thank you so much, Florent, for 15 years of support, expertise, and kindness—from our early RMLL years to this edition of Pass the SALT 🙏 
 
-Fred (left) has brilliantly taken over, and we are very happy to continue this PTS video adventure with such warm and competent people!
+Fred (on the left) has brilliantly taken over, and we are thrilled to continue this PTS video adventure with such warm and competent people!
 
 ### Speakers feedback
 
 <img src="/images/report-speakers.png" alt="2025 speakers experience" width="100%"/><br> 
+The feedback from the speakers, collected both in person and through the post-event form, has been **overwhelmingly positive**.
 
-The feedback of the speakers collected IRL and through the post event form has been **really positive**. 
+💚 **Highlights**:
 
-💚 Main **positive points** have been:
+- The size and setup of the event allowed them to **easily connect with both old friends and new people**.
+- Speakers and attendees were described as **relaxed and open-minded**.
+- Many new speakers were pleasantly surprised by the **high level of expertise** demonstrated throughout the conference by those on stage.
+- The speaker gifts and the quality of the breaks were **unanimously appreciated**.
+- 🤩 Several speakers highlighted the **attention to detail** (e.g., handcrafted badges, coins, and the fact that **everything is published openly**, from talks to this report and more).
 
-- size and setup of the event allowed them to **chat with old friends and new people very easily**.
-- speakers and attendees are **all relaxed and open minded**.
-- despite the small size of the event(or because?), many new speakers have been surprised by the **high level of expertise** demonstrated all along the conference by people on stage.
-- speaker gift and pauses content have been unanimously appreciated.
-- 🤩 several speakers have pointed and appreciated the level of details (hand crafted badges, coins, **everything published openly** from talks to this report and more)
+↗️ **Areas for improvement**:
 
-↗️ **Some improvements** have also been requested by speakers:
-
-- speakers dinner has not been a perfect fit this year again (more room than in 2024 but less food, not top notch quality, quite noisy). Finding the right location for this speakers dinner is definitively the oldest challenge that we have not yet managed to overcome (perfectly)!
-- several speakers have indicated that **too many emails** have been sent before the event (4/5) and they would like less emails, for example one or two with all required information on them. We will try to do it that way :) We have already 2 dedicated web pages for practical and speakers dedicated information.
-- some adjustements on our Pretalx instance should be done in order to make speakers addition to an already proposed talk more reliable.
-- adding a physical timer on stage would be great.
+- The speakers' dinner, while better than in 2024 (more space), still fell short in terms of food quality and ambiance (it was noisy). Finding the right venue for the speakers' dinner remains an ongoing challenge that we have yet to fully resolve.
+- Several speakers mentioned receiving **too many emails** before the event (4–5). They suggested consolidating the information into one or two emails with all the necessary details. We will aim to implement this, especially since we already have two dedicated web pages for practical and speaker-specific information.
+- Adjustments to our Pretalx instance are needed to make it easier to add co-speakers to an already proposed talk.
+- Adding a **physical timer on stage** would be a helpful addition.
 
 ## Audience
 
 ### Figures
 
-With 170 registered and 140 checked-in people, **2025 has been a good year!** 
+With 170 registered attendees and 140 checked in, **2025 was a great year!**
 
-As indicated in the summary, we are really happy of this year **historically low level of no show (17.6%)** 🤩  
+As noted in the summary, we are thrilled with this year’s **historically low no-show rate (17.6%)** 🤩. 
 
-Thanks to all committed attendees, it really matters for us!
+A big thank you to all the committed attendees—it truly makes a difference for us!
 
-### Geography & new comers
+### Geography & Newcomers
 
-| Lille      | France (except Lille area)   | (rest of) Europe with UK | (rest of the) World |
-| --------- | ----------------------------- | ------------------------ | ------------------- |
-| **28.4%**  | **47.3%**                    | **19.6%**                | **4.7%**            |
+| Lille      | France (excluding Lille area) | (rest of) Europe, including the UK | (rest of the) World |
+| ---------- | ----------------------------- | ---------------------------------- | ------------------- |
+| **28.4%**  | **47.3%**                     | **19.6%**                         | **4.7%**            |
 
-We have been really pleased to have really more attendees coming from Europe and the rest of the world (x3 regardinbg 2024). **Diversity of speakers background** (private experts, academics, FLOSS devs, activists etc) **and nationality** has surely been a lever to reach these figures.
+We were delighted to see a significant increase in attendees from Europe and the rest of the world (3x compared to 2024). The **diversity of speakers’ backgrounds** (private experts, academics, FLOSS developers, activists, etc.) and nationalities likely contributed to these figures.
 
-We asked also during registration if 2025 was their first Pass the SALT edition: **35% of new comers**. After 8 editions, we have finally reached the point where we have a core of regular attendees. We will try to always attract new people but it is also a real satisfaction to have committed people that come back for good reasons :)
+We also asked during registration if 2025 was their first Pass the SALT edition: **35% were newcomers**. After eight editions, we’ve reached a point where we have a core group of regular attendees. While we’ll continue to attract new participants, it’s deeply satisfying to see committed individuals returning year after year for good reasons. 😊
 
 ### Occupation
 
@@ -232,60 +229,60 @@ We doubled the percentage of students and academics this year regarding 2024. Ma
 
 💚 People appreciated:
 
-- **Location:** being near downtown, possible to come by foot, bus or metro, gardens. A vast majority of you has really appreciated it!
-- **Pauses:** a lot of you have given positive feedback about the quality and diversity of the pauses content. Canelés, pastries and fresh fruits got rewards!
-- **Exchange:** you have really appreciated that the event allows you to chat easily with everybody, speakers included due to the small size, setup and the open state of mind of everybody.
-- **Talks and workshops:** Their quality has been unanimously recognized.
+- **Location:** Being near downtown, with the option to come by foot, bus, or metro, and the presence of gardens. A vast majority of you truly appreciated it!
+- **Pauses:** Many of you provided positive feedback about the quality and diversity of the refreshments during breaks. Canelés, pastries, and fresh fruits were particularly well-received!
+- **Exchange:** You really valued the event's setup, which allowed for easy conversations with everyone, including speakers, thanks to the small size, layout, and the open-minded atmosphere.
+- **Talks and workshops:** Their quality was unanimously recognized.
 
 ↗️ Some improvements or regrets also:
 
-- **Better A/C** 👉️ in the lecture hall, we can't do better: the system works to provide a temperature some degrees lower than the external temperature. IOHO the situation inside the room was tolerable regarding the 38°C outside. For the workshops rooms, some of you reported that it wasn't working correctly. We will try to check it next year more precisely.
-- **No food trucks anymore** 👉️ Impossible to have them inside the university
-- **Having rooms dedicated to specific purposes:** specific topics discussions, low noise/break room etc 👉️ We will try work on this, really!
-- **Use the garden to do pauses** 👉️ Not sure due to the downstairs position of the lecture hall regarding the garden but why not.
-- **Better signage for the event** 👉️ Difficult to do less than this year! We will try to improve it.
-- **Some would like to have multi tracks in order to stay on topics they liked** 👉️ Unfortunately it is not the soul nor the mission of the event. We want to build bridges between communities and the way to reach this goal starts by ... listenning to each others :)
-- **Almost no vegan alternatives and no way to indicate rare allergies** 👉️ our pauses have been more diverse than years before and for the first time, we have been able to provide fresh fruits. TBH it is quite hard on our side to provide a correct answer to so specific query 😔
-- **Switch from bottles to a water dispenser during pauses** 👉️ Good point but onsite, everything is provided (or not) by the university. Will try to work on it because it is a valuable idea, thanks. 
+- **Better A/C:** 👉️ In the lecture hall, the system works to provide a temperature a few degrees lower than the external temperature. In our opinion, the situation inside the room was tolerable given the 38°C outside. However, some of you reported that the A/C in the workshop rooms wasn't working correctly. We will try to check this more thoroughly next year.
+- **No food trucks anymore:** 👉️ Unfortunately, it was impossible to have them inside the university premises.
+- **Having rooms dedicated to specific purposes:** Specific topic discussions, low-noise/break rooms, etc. 👉️ We will work on this for next year!
+- **Use the garden for breaks:** 👉️ This might be challenging due to the downstairs position of the lecture hall relative to the garden, but we will explore the possibility.
+- **Better signage for the event:** 👉️ While we tried our best this year, we acknowledge there is room for improvement. We will aim to enhance this aspect.
+- **Some would like to have multi-tracks to stay on topics they liked:** 👉️ Unfortunately, this is not aligned with the soul or mission of the event. Our goal is to build bridges between communities, and achieving this starts with listening to each other. :)
+- **Almost no vegan alternatives and no way to indicate rare allergies:** 👉️ While our breaks were more diverse than in previous years, and we provided fresh fruits for the first time, it remains challenging for us to fully address such specific dietary needs 😔.
+- **Switch from bottles to a water dispenser during breaks:** 👉️ This is a great suggestion. However, as everything onsite is provided (or not) by the university, we will need to work on this with them. It's a valuable idea—thank you!
 
 ## Sponsors
 
 <img src="/images/sponsors.png" alt="2025 sponsors" width="100%"/> <br>
 
-This year, [Penthertz](https://www.penthertz.com/) and [Epsilon](https://www.epsilon-sec.com/) supported us at a **Silver level**. They joined our group of sponsors and partners that support us on a mid to long term: 
+This year, [Penthertz](https://www.penthertz.com/) and [Epsilon](https://www.epsilon-sec.com/) supported us at a **Silver level**. They joined our group of sponsors and partners who support us on a mid to long-term basis:
 
-- **Platinum level:** [Gandi](https://www.gandi.net/), [Passbolt](https://www.passbolt.com/), [Université Catholique de Lille](https://www.univ-catholille.fr/en/), 
-- **Gold:** [Quarkslab](https://www.quarkslab.com/), 
-- **Silver:** [Synacktiv](https://www.synacktiv.com/) and [RandoriSec](https://www.randorisec.fr/). 
+- **Platinum level:** [Gandi](https://www.gandi.net/), [Passbolt](https://www.passbolt.com/), [Université Catholique de Lille](https://www.univ-catholille.fr/en/)
+- **Gold level:** [Quarkslab](https://www.quarkslab.com/)
+- **Silver level:** [Synacktiv](https://www.synacktiv.com/) and [RandoriSec](https://www.randorisec.fr/)
 
-Thanks so much to all of you, it simply allows us to exist and provide to the community this free event, share its content full of security expertise and create moments to meet and collaborate 💚
+Thank you so much to all of you! Your support enables us to exist, provide this free event to the community, share content rich in security expertise, and create opportunities to meet and collaborate 💚
 
 ## Budget
 
-In order to provide transparency to all but also to help everybody who would like to launch their own event, whe share the big lines of the budget:
+To ensure transparency and assist anyone interested in organizing their own event, we share the main aspects of our budget:
 
-**Approx. Budget: 14.000€~**
+**Approximate Budget: ~14,000€**
 
-**Approx. Budget breakdown in %:**
-- **47%:** catering (pauses, social event, spearkers dinner)
-- **24%:** travel expenses reimbursement
-- **16%:** onsite communication, identification and gifts expenses (badges, lanyards, tokens, kakemonos, stickers, speakers gifts etc)
-- **10%:** recurrent expenses (bank account, servers, domain name etc).
+**Budget Breakdown:**
+- **47%:** Catering (breaks, social event, speakers' dinner)
+- **24%:** Travel expense reimbursements
+- **16%:** Onsite communication, identification, and gift expenses (badges, lanyards, tokens, banners, stickers, speaker gifts, etc.)
+- **10%:** Recurring expenses (bank account, servers, domain name, etc.)
+
 
 ## Conclusion
 
-Each year, we try to produce the best event possible through high quality content on hot topics and all of this in a as warm and open atmosphere possible. At the end of the day, we just hope you will live a great event 
+Each year, we strive to deliver the best event possible, combining high-quality content on relevant topics with a warm and welcoming atmosphere. At the end of the day, our hope is that you leave with a memorable experience.
 
-And when some speakers like Philippe and Thibault dropped us these kind words, we were just in a #JobSeemsToBeDone mood ❤️
+When speakers like Philippe and Thibault share such kind words, it truly feels like our efforts have paid off ❤️:
 
-**Philippe:** _"Thanks for organizing the conference and having us! It was great - I really enjoyed the talks, the vibe and meeting everybody who came from all over. And a special mention for... the snacks provided throughout the conference!"_<br>
-**Thibault:** _"I second that. A great attention to details as well!"_
+**Philippe:** _"Thanks for organizing the conference and having us! It was great - I really enjoyed the talks, the vibe, and meeting everybody who came from all over. And a special mention for... the snacks provided throughout the conference!"_<br>
+**Thibault:** _"I second that. Great attention to detail as well!"_
 
-**_"attention to details"_** our small size (170p registered, 140 came) allows us to (try to) pay attention to details such as among others things custom badge design & fabrication in a fablab, specific lanyard for people requiring privacy, sharing everything (CFP & attendees figures, budget, slides/videos, badges design, contribs born during con etc), trying to speak with the vast majority of attendees and to all speakers etc. <br>
-👉️ **It is really important for us and we really appreciate when it is pointed** 🙏 #SmallisBeautiful
+The **_"attention to detail"_** is something we take pride in. Our small size (170 registered, 140 attended) allows us to focus on the little things, such as custom badge designs created in a fab lab, specific lanyards for those requiring privacy, openly sharing everything (CFP and attendee figures, budget, slides/videos, badge designs, contributions born during the conference, etc.), and making an effort to connect with the majority of attendees and all speakers. <br>
+👉️ **This is very important to us, and we deeply appreciate it when it is recognized** 🙏 #SmallIsBeautiful
 
-
-It has been a blast! See you at #PTS25! 👋 😘<br>
-**Pass the SALT 2025 organization team**
+It has been an incredible experience! See you at #PTS26! 👋 😘<br>
+**Pass the SALT 2025 Organization Team**
 
 <img src="/images/team.jpg" alt="2025 team" width="100%"/> 
