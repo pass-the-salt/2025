@@ -31,7 +31,7 @@ Due to the unavailability of the Polytech lecture hall for our dates, we had the
 
 _Lecture hall. Photo by @julioloayzam._<br>
 
-💚 The semi-underground lecture hall was **much more resistant to the heat** (38°C on the first day) than Polytech.
+💚 The semi-underground lecture hall finally **handled quite well the high peak heat** (38°C on the first day).
 
 💚 The variety of **transportation options** to get there (15 minutes by bus, 25/30 minutes on foot, 2 metro lines) provided **resilience and comfort for everyone**.
 
@@ -52,9 +52,12 @@ PTS is a single-track conference with parallel workshops.
 We had also 6 workshops given all along the event (9 in 2024). 
 
 **New in 2025** 
-- a **secured messaging session** with very diverse and experts speakers,
-- **more academics speakers**,
-- speakers coming from **more diverse horizons** than the previous editions due to CFP pushing to new ecosystems (academia, messaging, hacktivists).    
+
+💚 a **secured messaging session** with very diverse and experts speakers,
+
+💚 **more academics speakers**,
+
+💚 speakers coming from **more diverse horizons** than the previous editions due to CFP pushing to new ecosystems (academia, messaging, hacktivists).    
 
 ## Attendance
 
@@ -68,7 +71,7 @@ We had also 6 workshops given all along the event (9 in 2024).
 
 **Main point of contact for Code of Conduct enforcement:** this year, Nathan took the lead of the inclusion and safety initiative and will be able to bring his expertise in the domain to the organization. Thanks for it, Nathan 🙏 <br>![nathan](/images/nathan2.jpg)
 
-**Best rump award:** we decided to distinguish the best lightning talk based on instant voting by the audience via an online service. It has been **fun** and **appreciated** by attendees and rumps speakers 🥇<br><img src="/images/best-rump-award.jpg" alt="best rump award" width="100%"/>
+**Best rump award:** we decided to distinguish the best lightning talk based on instant voting by the audience via an online service. It has been **fun** and **appreciated** by attendees and rumps speakers 🥇<br><img src="/images/best-rump-award.jpg" alt="best rump award" width="70%"/>
 
 **Mascot:** Salty, hand maded by @\_cryptocorn\_, was born during the conference and made a brief appearance 😍 We can capitalize on her existence in future communications. <br><br><img src="/images/salty.jpg" alt="SALTY" width="100%"/><br>_Salty. Photo by @julioloayzam._<br>
 
@@ -229,24 +232,33 @@ We doubled the percentage of students and academics this year regarding 2024. Ma
 
 💚 People appreciated:
 
-- **Location:** being near downtown, possible to come by foot, bus or metro, gardens.
-- **Pauses quality and diversity**
-- **Exchange:** easy to chat with everybody, speakers included due to the small size, setup and the open minded state of everybody.
-- **Talks quality, expertise level, diversity of topics**
+- **Location:** being near downtown, possible to come by foot, bus or metro, gardens. A vast majority of you has really appreciated it!
+- **Pauses:** a lot of you have given positive feedback about the quality and diversity of the pauses content. Canelés, pastries and fresh fruits got rewards!
+- **Exchange:** you have really appreciated that the event allows you to chat easily with everybody, speakers included due to the small size, setup and the open state of mind of everybody.
+- **Talks and workshops:** Their quality has been unanimously recognized.
 
 ↗️ Some improvements or regrets also:
 
+- **Better A/C** 👉️ in the lecture hall, we can't do better: the system works to provide a temperature some degrees lower than the external temperature. IOHO the situation inside the room was tolerable regarding the 38°C outside. For the workshops rooms, some of you reported that it wasn't working correctly. We will try to check it next year more precisely.
 - **No food trucks anymore** 👉️ Impossible to have them inside the university
-- **Having rooms dedicated to specific purposes:** specific topics discussions, low noise/break room etc 👉️We will try work on this, really!
+- **Having rooms dedicated to specific purposes:** specific topics discussions, low noise/break room etc 👉️ We will try work on this, really!
 - **Use the garden to do pauses** 👉️ Not sure due to the downstairs position of the lecture hall regarding the garden but why not.
 - **Better signage for the event** 👉️ Difficult to do less than this year! We will try to improve it.
 - **Some would like to have multi tracks in order to stay on topics they liked** 👉️ Unfortunately it is not the soul nor the mission of the event. We want to build bridges between communities and the way to reach this goal starts by ... listenning to each others :)
+- **Almost no vegan alternatives and no way to indicate rare allergies** 👉️ our pauses have been more diverse than years before and for the first time, we have been able to provide fresh fruits. TBH it is quite hard on our side to provide a correct answer to so specific query 😔
+- **Switch from bottles to a water dispenser during pauses** 👉️ Good point but onsite, everything is provided (or not) by the university. Will try to work on it because it is a valuable idea, thanks. 
 
 ## Sponsors
 
 <img src="/images/sponsors.png" alt="2025 sponsors" width="100%"/> <br>
 
-This year, [Penthertz](https://www.penthertz.com/) and [Epsilon](https://www.epsilon-sec.com/) joined our group of sponsors and partners that support us on a mid to long term: Gandi, Passbolt, Université Catholique de Lille, Quarkslab, Synacktiv and RandoriSec. Thanks so much to all of you, it simply allows us to exist and provide to the community this free event, share its content full of security expertise and create moments to meet and collaborate 💚
+This year, [Penthertz](https://www.penthertz.com/) and [Epsilon](https://www.epsilon-sec.com/) supported us at a **Silver level**. They joined our group of sponsors and partners that support us on a mid to long term: 
+
+- **Platinum level:** [Gandi](https://www.gandi.net/), [Passbolt](https://www.passbolt.com/), [Université Catholique de Lille](https://www.univ-catholille.fr/en/), 
+- **Gold:** [Quarkslab](https://www.quarkslab.com/), 
+- **Silver:** [Synacktiv](https://www.synacktiv.com/) and [RandoriSec](https://www.randorisec.fr/). 
+
+Thanks so much to all of you, it simply allows us to exist and provide to the community this free event, share its content full of security expertise and create moments to meet and collaborate 💚
 
 ## Budget
 
