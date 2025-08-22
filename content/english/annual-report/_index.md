@@ -37,7 +37,7 @@ _Lecture hall. Photo by @julioloayzam._<br>
 
 💚 The **green spaces** in an inner courtyard have been **really appreciated** by participants, especially with this temperature. <br><img src="/images/jardins.jpg" alt="Gardens inside university" width="100%"/>
 
-😔 **No easy parking** when coming by car, including for the organizers; we will work for it if we come back there).
+😔 **No easy parking** when coming by car, including for the organizers; we will work for it if we come back there.
 
 😐 No possibility of setting up food trucks. But there are a variety of street food restaurants nearby (5 min walk) 👍
 
@@ -53,15 +53,15 @@ We had also 6 workshops given all along the event (9 in 2024).
 
 **New in 2025** 
 
-💚 a **secured messaging session** with very diverse and experts speakers,
+💚 a **secured messaging session** with very diverse and expert speakers,
 
-💚 **more academics speakers**,
+💚 **more academic speakers**,
 
 💚 speakers coming from **more diverse horizons** than the previous editions due to CFP pushing to new ecosystems (academia, messaging, hacktivists).    
 
 ## Attendance
 
-**Figures:** 170 registered, **140 present**. After 8 editions, we can say that 150-200 is the typical size that fits the soul of the event where people can talk to everybody, speakers and attendees, in a comfortable and warm manner 💚
+**Figures:** 170 registered, **140 present**. After 8 editions, we can say that 130-170 is the typical size that fits the soul of the event where people can talk to everybody, speakers and attendees, in a comfortable and warm manner 💚
 
 ❤️ **2025 no-show rate: of 17.6%** (2024: 176/128, representing a no-show rate of 28%). As a free conference, we are **very happy** with these improving figures and the sharp drop in no-shows. Unfortunately, we don't have any further explanations for this figure 😐️
 
@@ -73,7 +73,7 @@ We had also 6 workshops given all along the event (9 in 2024).
 
 **Best rump award:** we decided to distinguish the best lightning talk based on instant voting by the audience via an online service. It has been **fun** and **appreciated** by attendees and rumps speakers 🥇<br><img src="/images/best-rump-award.jpg" alt="best rump award" width="70%"/>
 
-**Mascot:** Salty, hand maded by @\_cryptocorn\_, was born during the conference and made a brief appearance 😍 We can capitalize on her existence in future communications. <br><br><img src="/images/salty.jpg" alt="SALTY" width="100%"/><br>_Salty. Photo by @julioloayzam._<br>
+**Mascot:** Salty, hand maded by @\_cryptocorn\_, was born during the conference and made a brief appearance 😍 We can capitalize on its existence in future communications. <br><br><img src="/images/salty.jpg" alt="SALTY" width="100%"/><br>_Salty. Photo by @julioloayzam._<br>
 
 **Org lunch:** the organizers allocated a budget to order food and have it delivered. This allowed us to **eat together**, work until the delivery arrived, chat, without the hassle of finding somewhere to eat, going there, coming back, etc. And it was great! 🤩
 
@@ -85,13 +85,13 @@ We had also 6 workshops given all along the event (9 in 2024).
 Our **main server crashes one hour before the conference starts at 2 p.m.** It hosts the website, including  practical information on how to get there and the program, but not the ticket office. OVH works on it all afternoon.<br><img src="/images/everything.png" alt="everything is fine illustration in front a wall of flames" width="100%"/>
 
 **Immediate impacts** 
-  * **Many people were lost**. As previously said, this year, we changed the conference location. 1 p.m. on the first day is the exact time when most participants are looking for the practical information page on how to get there, and... the server is down. So they search from memory for “Université Catholique de Lille” on Maps, which sends them to another building further up the boulevard because the university occupies an entire neighborhood.<br>👉 **Server down, first  day, 1 hour before start of the con held in brand new location. All of this under 38°C. Not worst time possible for this crash to happen!**
+  * **Many people were lost**. As previously said, this year, we changed the conference location. 1 p.m. on the first day is the exact time when most participants are looking for the practical information page on how to get there, and... the server is down. So they search from memory for “Université Catholique de Lille” on Maps, which sends them to another building further up the boulevard because the university occupies an entire neighborhood.<br>👉 **Server down, first  day, 1 hour before start of the con held in brand new location. All of this under 38°C. No worst time possible for this crash to happen!**
   * **Speaker absent:** this story causes our first speaker fail to join us on time, but he ends up arriving. In the end, we just swapped him with the second speaker (a big thank to Vincent Lopes!).
 
 **Crisis management** 
   * 📣 As soon as we detected that the server was down, we (re)communicate the university's address via social media (X, Mastodon, LinkedIn). **Finally, people end up arriving more or less on time** 🎉 
   * 🛠️ **Recovering temporary website:** in the middle of the afternoon, we put **the site back online on Github Pages** thanks to the fact that it is mostly static (Hugo). The program based on Pretalx, which is self-hosted on the server, was affected. Fortunately, we were **able to replace the program with a PDF** generated elsewhere for physical display. <br><br><img src="/images/recovery-team.jpg" alt="2025 recovery team" width="100%"/><br> *The recovery team at work to bring up a backup website online. Photo by @julioloayzam.* <br><br>
-  * **Server is back:** the server has been bring back to us at 8 p.m. by OVH. Everything on it was changed except for the disks, which meant we didn't have to do a full restore. The logs mention the CPU overheating. From there, it's easy to think that the data center's air conditioning had a hard time keeping the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
+  * **Server is back:** the server has been repaired and given back to us by OVH at 8 p.m. Everything on it was changed except for the disks, which meant we didn't have to do a full restore. The logs mention the CPU overheating. From there, it's easy to think that the data center's air conditioning had a hard time keeping the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
 
 **Law of series:** at the end of the conference, when we wanted to save the videos/slides from the year from our archive site to our backup disk, as we do every year, the data from the previous 15 years (RMLL+PTS) told us... *“We're gone, bye!”*. #WhenItDoesn'tWork. We backed up everything again.
 
