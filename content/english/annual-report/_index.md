@@ -18,6 +18,7 @@ Direct sections access:
 - **[More event details](#more-event-details)**,
   - **[conferences and workshops](#conferences-and-workshops)**,
   - **[audience](#audience)**,
+  - **[inclusion and safety](#inclusion-and-safety)**,
   - **[sponsors](#sponsors)**,
   - **[budget](#budget)**,
 - **[Conclusion](#conclusion)**.
@@ -64,8 +65,8 @@ We also had 6 workshops throughout the event (compared to 9 in 2024).
 
 ❤️ **2025 no-show rate: 17.6%** (2024: 176 registered, 128 present, representing a no-show rate of 28%). As a free conference, we are **very happy** with this improvement and the sharp drop in no-shows. Unfortunately, we don't have further insights into the reasons behind this figure 😐️.
 
-**Language:** As the conference was held in English, we were pleased to have **~20% of non-French-speaking attendees 🇬🇧**, which is an improvement over past editions. Notably, there was a larger presence of Germans involved in activism and privacy (see related presentations).
-
+**Language:** As the conference was held in English, we were pleased to have **~20% of non-French-speaking attendees**, which is an improvement over past editions. Notably, there was a larger presence of Germans involved in activism and privacy (see related presentations).
+audience
 ## Some new features
 
 **Main point of contact for Code of Conduct enforcement:** This year, Nathan took the lead on the inclusion and safety initiative, bringing his expertise to the organization. Thank you, Nathan 🙏 <br>![Nathan](/images/nathan2.jpg)
@@ -89,7 +90,7 @@ Our **main server crashed one hour before the conference started at 2 p.m.** It 
 **Crisis management**  
   * 📣 As soon as we detected that the server was down, we (re)communicated the university's address via social media (X, Mastodon, LinkedIn). **Finally, people ended up arriving more or less on time** 🎉  
   * 🛠️ **Recovering temporary website:** In the middle of the afternoon, we brought **the site back online on GitHub Pages** thanks to the fact that it was mostly static (Hugo). The program, based on Pretalx and self-hosted on the server, was affected. Fortunately, we were **able to replace the program with a PDF** generated elsewhere for physical display. <br><br><img src="/images/recovery-team.jpg" alt="2025 recovery team" width="100%"/><br> *The recovery team at work to bring up a backup website online. Photo by @julioloayzam.* <br><br>
-  * **Server is back:** The server was repaired and returned to us by OVH at 8 p.m. Everything on it was replaced except for the disks, which meant we didn't have to do a full restore. The logs mentioned CPU overheating. From there, it's easy to speculate that the data center's air conditioning struggled to keep the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
+  * **Server is back:** The server was repaired and returned to us by OVH at 8 p.m. Everything on it was replaced except for the disks, which meant we didn't have to do a full restore. The logs mentioned CPU overheating. From there, as the server is hosted in a datacenter in Roubaix near Lille, it's easy to speculate that the data center's air conditioning struggled to keep the servers at the right temperature on that particularly hot day #EasyConspiracies 🤷‍♂️ 😉
 
 **Law of series:** At the end of the conference, when we wanted to save the videos/slides from the year from our archive site to our backup disk, as we do every year, the data from the previous 15 years (RMLL+PTS) told us... *“We're gone, bye!”*. #WhenItDoesNotWork. We backed up everything again.
 
@@ -244,6 +245,10 @@ We doubled the percentage of students and academics this year regarding 2024. Ma
 - **Some would like to have multi-tracks to stay on topics they liked:** 👉️ Unfortunately, this is not aligned with the soul or mission of the event. Our goal is to build bridges between communities, and achieving this starts with listening to each other. :)
 - **Almost no vegan alternatives and no way to indicate rare allergies:** 👉️ While our breaks were more diverse than in previous years, and we provided fresh fruits for the first time, it remains challenging for us to fully address such specific dietary needs 😔.
 - **Switch from bottles to a water dispenser during breaks:** 👉️ This is a great suggestion. However, as everything onsite is provided (or not) by the university, we will need to work on this with them. It's a valuable idea—thank you!
+
+## Inclusion and safety
+
+No discrimination or incidents reported were rerorted. One person came to ask us questions about an aspect of their presentation and an aspect of their clothing (wearing a headscarf that could be associated with a political statement). At least one speaker included their pronouns (they/him) in their slides, so there are people who are concerned and seem to want to clarify this point (and be mindful of gender misgendering). Finally, plan for the inclusion of neurodivergent people by adapting certain spaces (we received a few reports of discomfort).
 
 ## Sponsors
 
