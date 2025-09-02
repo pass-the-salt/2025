@@ -248,7 +248,7 @@ We doubled the percentage of students and academics this year regarding 2024. Ma
 
 ## Inclusion and safety
 
-No discrimination or incidents reported were reported. One person came to ask us questions about an aspect of their presentation and an aspect of their clothing (wearing a headscarf that could be associated with a political statement). At least one speaker included their pronouns (they/him) in their slides, so there are people who are concerned and seem to want to clarify this point (and be mindful of gender misgendering). Finally, plan for the inclusion of neurodivergent people by adapting certain spaces (we received a few reports of discomfort).
+No discrimination or incidents were reported. One person came to ask us questions about an aspect of their presentation and an aspect of their clothing (wearing a headscarf that could be associated with a political statement). At least one speaker included their pronouns (they/him) in their slides, so there are people who are concerned and seem to want to clarify this point (and be mindful of gender misgendering). Finally, plan for the inclusion of neurodivergent people by adapting certain spaces (we received a few reports of discomfort).
 
 ## Sponsors
 

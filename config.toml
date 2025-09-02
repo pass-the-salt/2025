@@ -56,10 +56,7 @@ name = "About"
 url = "https://2025.pass-the-salt.org/#description"
 weight = 10
 
-[[menu.main]]
-name = "Practical"
-url = "https://2025.pass-the-salt.org/practical/"
-weight = 11
+
 
 [[menu.main]]
 name = "Schedule"
@@ -72,8 +69,8 @@ weight = 20
 #weight = 3
 
 [[menu.main]]
-name = "Videos"
-url = "https://passthesalt.ubicast.tv/channels/#2025"
+name = "Memories"
+url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/photos/PhotosPassTheSALT2025-by-jlm/"
 weight = 30
 
 [[menu.main]]
@@ -82,25 +79,29 @@ url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/slides/"
 weight = 31
 
 [[menu.main]]
-name = "Memories"
-url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2025/photos/PhotosPassTheSALT2025-by-jlm/"
+name = "Videos"
+url = "https://passthesalt.ubicast.tv/channels/#2025"
 weight = 32
 
+[[menu.main]]
+name = "Practical"
+url = "/practical/"
+weight = 41
 
-#[[menu.main]]
-#name = "Report"
-#url = "https://2024.pass-the-salt.org/annual-report/"
-#weight = 4
+[[menu.main]]
+name = "Report"
+url = "/annual-report/"
+weight = 42
 
 [[menu.main]]
 name = "Sponsors"
-url = "https://2025.pass-the-salt.org/#sponsors"
+url = "/#sponsors"
 weight = 50
 
-[[menu.main]]
-name = "Code of Conduct"
-url = "https://2025.pass-the-salt.org/code-of-conduct/"
-weight = 60
+#[[menu.main]]
+#name = "CoC"
+#url = "/code-of-conduct/"
+#weight = 60
 
 [[menu.main]]
 name = "Archives"
